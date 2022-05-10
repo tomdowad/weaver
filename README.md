@@ -1,2 +1,3 @@
 # weaver
-A collection of circuit boards in support of reusable modular electronics
+A collection of circuit boards and methods in support of reusable modular electronics
+
