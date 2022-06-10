@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name weaver_UC1609)(type KiCad)(uri "$(KIPRJMOD)/weaver_UC1609.pretty")(options "")(descr ""))
+)
