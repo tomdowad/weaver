@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "weaver_grovesil")(type "KiCad")(uri "$(KIPRJMOD)/weaver_grovesil.pretty")(options "")(descr ""))
+)

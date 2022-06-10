@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "weaver_merger")(type "KiCad")(uri "$(KIPRJMOD)/weaver_merger.pretty")(options "")(descr ""))
+)

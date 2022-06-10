@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "weaver_led-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/weaver_led-eagle-import.kicad_sym")(options "")(descr ""))
+)
