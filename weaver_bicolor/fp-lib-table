@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "weaver_bicolor")(type "KiCad")(uri "$(KIPRJMOD)/weaver_bicolor.pretty")(options "")(descr ""))
+)
