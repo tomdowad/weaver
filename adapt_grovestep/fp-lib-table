@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "adapt_grovestep")(type "KiCad")(uri "$(KIPRJMOD)/adapt_grovestep.pretty")(options "")(descr ""))
-)
