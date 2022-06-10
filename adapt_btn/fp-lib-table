@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "adapt_btn")(type "KiCad")(uri "$(KIPRJMOD)/adapt_btn.pretty")(options "")(descr ""))
+)
